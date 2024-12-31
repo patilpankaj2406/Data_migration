@@ -1,0 +1,7 @@
+azure-functions
+boto3
+pymongo
+minio
+bson
+azure.storage.blob
+pytz
